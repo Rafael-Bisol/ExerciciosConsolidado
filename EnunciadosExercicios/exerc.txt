@@ -1,0 +1,18 @@
+Escreva um programa em C# que utilize estruturas de controle de fluxo (if e for) para encontrar e exibir todos os números especiais em um intervalo fornecido pelo usuário.
+
+O que são números especiais: Considere números especiais aqueles que são divisíveis por 3 e 5 ao mesmo tempo.
+
+Entrada de Intervalo: Solicite ao usuário que insira os valores para o início e o fim do intervalo.
+
+Exibição de Resultados: Ao final do programa, exiba todos os números especiais encontrados no intervalo.
+
+-------------------
+
+
+Escreva um programa em C# que utilize estruturas de controle de fluxo (if e for) para encontrar e exibir todos os números especiais em um intervalo fornecido pelo usuário.
+
+O que são números especiais: Considere números especiais aqueles que são divisíveis por 3 e 5 ao mesmo tempo.
+
+Entrada de Intervalo: Solicite ao usuário que insira os valores para o início e o fim do intervalo.
+
+Exibição de Resultados: Ao final do programa, exiba todos os números especiais encontrados no intervalo.

@@ -1,0 +1,4 @@
+Atividade:
+	Elabore um algoritmo para determinar as cédulas do saque em um terminal de autoatendimento bancário. O algoritmo receberá o valor do saque. O terminal deve entregar o menor número de cédulas possível. Considere notas nos valores  5,10,20,50 e 100.
+	
+-municode

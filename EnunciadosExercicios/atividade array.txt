@@ -1,0 +1,6 @@
+Atividade
+Desenvolva um sistema que permita o usuário decidir quantos nomes quer cadastrar
+para definir o tamanho do vetor que sera usado,
+após isso percorra o vetor com um for para preencher todos os espaços da coleção, 
+por fim crie um método de pesquisa pela posição do vetor decidida pelo usuário. 
+Crie uma forma de impedir que o usuário acesse uma posição incorreta do vetor.

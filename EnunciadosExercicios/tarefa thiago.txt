@@ -1,0 +1,2 @@
+refazer todas as ativididades em um arquivo usando switch case para escolha
+e métodos
